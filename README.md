@@ -41,7 +41,7 @@ To run this project locally, no build tools or package managers are required. Si
 
 ```bash
 # Clone the repository
-git clone [https://github.com/anitabudhiraja/anitabudhiraja.github.io.git](https://github.com/anitabudhiraja/anitabudhiraja.github.io.git)
+git clone https://github.com/anitabudhiraja/anitabudhiraja.github.io.git
 
 # Navigate to the project directory
 cd anitabudhiraja.github.io
