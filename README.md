@@ -1,6 +1,6 @@
 # Anita Budhiraja - Personal Portfolio Website
 
-Welcome to the repository for my personal portfolio website. I am **Anita Budhiraja**, Scientist-E, Associate Dean – Academics, and Head of Department (Training) at NIELIT Chandigarh/Ropar, with over 25+ years of experience in AI, Machine Learning, Blockchain, IoT, and Emerging Technologies.
+Welcome to the repository for my personal portfolio website. I am **Anita Budhiraja**, Scientist-E, Associate Dean – Academics, and Head of Department (Training) at NIELIT Chandigarh/Ropar, with over 30+ years of experience in AI, Machine Learning, Blockchain, IoT, and Emerging Technologies.
 
 🔗 **Live Website:** [https://anitabudhiraja.github.io](https://anitabudhiraja.github.io)
 
